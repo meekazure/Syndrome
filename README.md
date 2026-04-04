@@ -13,4 +13,4 @@
   https://i.imgur.com/cyVDE8a
   https://i.imgur.com/xnVg4mc
 
-owned and coded by @luaudocumentation/@luauapi 
+owned and coded by @osintowner/@luauapi 
